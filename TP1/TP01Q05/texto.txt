@@ -1,0 +1,9 @@
+3 0 0 0 and(or(A , B , not(C)) , or(B , C) , or(not(A) , C))
+000
+and(or(A , B , not(C)) , or(B , C) , or(not(A) , C))
+and(or(0,0,not(0)),or(0,0),or(not(0),0))
+and(or(0,0,1),or(0,0),or(1,0))
+and(1,0,1)
+0
+
+
